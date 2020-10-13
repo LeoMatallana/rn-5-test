@@ -1,0 +1,16 @@
+{
+    "eslint.packageManager": "yarn",
+    "workbench.sideBar.location": "left",
+    "editor.fontSize": 14,
+    "window.zoomLevel": 0,
+    "diffEditor.ignoreTrimWhitespace": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.trailingComma": "none",
+    "prettier.arrowParens": "avoid",
+    "git.enableSmartCommit": true,
+    "eslint.alwaysShowStatus": true,
+    "editor.formatOnSave": true,
+    "eslint.format.enable": true
+}
